@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "h1_stand_8"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [294.66, 69.36],
+                [295.16, 69.36],
+                [295.16, 70.42],
+                [294.66, 70.44],
+                [294.66, 69.36]
+            ]
+        ]
+    }
+}
